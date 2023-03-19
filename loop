@@ -1,0 +1,8 @@
+count=1
+while count<=10:
+  print(count)
+  count+=1
+  
+ today I learned about loop.
+ in loop, I typed a lot of words so, the computer was almost broken
+  
